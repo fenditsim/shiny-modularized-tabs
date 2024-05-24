@@ -1,6 +1,6 @@
 ### 'Modularized' tabs in Shiny
 
-This repository shows a method to 'modularize' tabs in Shiny dashboard for easy access and clearer management system. Click [here](https://ft3pi.shinyapps.io/shiny-modularized-tabs/) to see the demo.
+This repository shows a method to 'modularize' tabs in Shiny dashboard for easy access and clearer management system. Click [here]([https://ft3pi.shinyapps.io/shiny-modularized-tabs/](https://fendit.shinyapps.io/shiny-modularized-tabs/)) to see the demo via shinyapps.io.
 
 This shiny dashboard contains three 'modules': ```Introduction```, ```Module 1``` and ```Module 2```.
 
